@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nnange-A
-- 👀 I’m interested in leaving school
+- 👀 I’m interested in getting done school
 - 🌱 I’m currently learning programming languages. When I'm done I will change this line
 - 💞️ I’m looking to collaborate on interesting stuff hopefully
 - 📫 How to reach me - just say my name!
