@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nnange-A
 - 👀 I’m interested in growing my programming skills through personal and collaborative projects.
-- 🌱 I’m currently learning and practicing web development.
+- 🌱 I’m currently practicing and learning more on web development.
 - 💞️ I’m looking to collaborate on interesting stuff hopefully.
 - 📫 How to reach me - just say my name!
 
